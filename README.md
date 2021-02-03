@@ -1,4 +1,4 @@
-Página de um hotel fictício 
+Página de um hotel fictício <br>
 Tecnologias usadas: HTML e CSS <hr>
 
 Página única
